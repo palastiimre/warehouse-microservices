@@ -1,0 +1,12 @@
+version: '3.9'
+services:
+  warehouse-db:
+    image: mysql:8.0
+    restart: always
+    ports:
+      - 3310:3306
+    command: mysqld --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    volumes:
+      - ./docker/provision/mysql/init:/docker-entrypoint-initdb.d
+    environment:
+      MYSQL_ROOT_PASSWORD: test1234

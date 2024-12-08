@@ -1,0 +1,9 @@
+D:\IntelliJ_projektek\warehouse-microservices\order-service\src\main\java\com\warehousemarket\orderservice\controller\OrderController.java
+D:\IntelliJ_projektek\warehouse-microservices\order-service\src\main\java\com\warehousemarket\orderservice\dto\OrderItemsDTO.java
+D:\IntelliJ_projektek\warehouse-microservices\order-service\src\main\java\com\warehousemarket\orderservice\dto\OrderRequest.java
+D:\IntelliJ_projektek\warehouse-microservices\order-service\src\main\java\com\warehousemarket\orderservice\entities\Order.java
+D:\IntelliJ_projektek\warehouse-microservices\order-service\src\main\java\com\warehousemarket\orderservice\entities\OrderItems.java
+D:\IntelliJ_projektek\warehouse-microservices\order-service\src\main\java\com\warehousemarket\orderservice\interfaces\IOrderService.java
+D:\IntelliJ_projektek\warehouse-microservices\order-service\src\main\java\com\warehousemarket\orderservice\OrderServiceApplication.java
+D:\IntelliJ_projektek\warehouse-microservices\order-service\src\main\java\com\warehousemarket\orderservice\repository\OrderRepository.java
+D:\IntelliJ_projektek\warehouse-microservices\order-service\src\main\java\com\warehousemarket\orderservice\service\OrderService.java

@@ -1,0 +1,8 @@
+D:\IntelliJ_projektek\warehouse-microservices\product-service\src\main\java\com\warehousemarket\productservice\controller\ProductController.java
+D:\IntelliJ_projektek\warehouse-microservices\product-service\src\main\java\com\warehousemarket\productservice\dto\ProductRequest.java
+D:\IntelliJ_projektek\warehouse-microservices\product-service\src\main\java\com\warehousemarket\productservice\dto\ProductResponse.java
+D:\IntelliJ_projektek\warehouse-microservices\product-service\src\main\java\com\warehousemarket\productservice\entity\Product.java
+D:\IntelliJ_projektek\warehouse-microservices\product-service\src\main\java\com\warehousemarket\productservice\interfaces\IProductService.java
+D:\IntelliJ_projektek\warehouse-microservices\product-service\src\main\java\com\warehousemarket\productservice\ProductServiceApplication.java
+D:\IntelliJ_projektek\warehouse-microservices\product-service\src\main\java\com\warehousemarket\productservice\repository\ProductRepository.java
+D:\IntelliJ_projektek\warehouse-microservices\product-service\src\main\java\com\warehousemarket\productservice\service\ProductService.java

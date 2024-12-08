@@ -1,0 +1,11 @@
+com\warehousemarket\productservice\dto\ProductResponse.class
+com\warehousemarket\productservice\service\ProductService.class
+com\warehousemarket\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\warehousemarket\productservice\entity\Product$ProductBuilder.class
+com\warehousemarket\productservice\interfaces\IProductService.class
+com\warehousemarket\productservice\ProductServiceApplication.class
+com\warehousemarket\productservice\dto\ProductRequest.class
+com\warehousemarket\productservice\repository\ProductRepository.class
+com\warehousemarket\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\warehousemarket\productservice\controller\ProductController.class
+com\warehousemarket\productservice\entity\Product.class

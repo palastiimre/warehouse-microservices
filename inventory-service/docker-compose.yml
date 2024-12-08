@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  inventory-service-db:
+    image: mysql:8.0
+    restart: always
+    ports:
+      - 3312:3306
+    volumes:
+      - db:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: test1234
+      MYSQL_DATABASE: inventory-service_db
+volumes:
+  db:

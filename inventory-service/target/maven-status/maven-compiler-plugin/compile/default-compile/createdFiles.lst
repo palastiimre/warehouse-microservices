@@ -1,0 +1,6 @@
+com\warehousemarket\inventoryservice\repository\InventoryRepository.class
+com\warehousemarket\inventoryservice\service\InventoryService.class
+com\warehousemarket\inventoryservice\interfaces\IInventoryService.class
+com\warehousemarket\inventoryservice\InventoryServiceApplication.class
+com\warehousemarket\inventoryservice\controller\InventoryController.class
+com\warehousemarket\inventoryservice\entities\Inventory.class

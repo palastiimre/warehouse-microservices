@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  order-service-db:
+    image: mysql:8.0
+    restart: always
+    ports:
+      - 3311:3306
+    volumes:
+      - db:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: test1234
+      MYSQL_DATABASE: order-service_db
+volumes:
+  db:

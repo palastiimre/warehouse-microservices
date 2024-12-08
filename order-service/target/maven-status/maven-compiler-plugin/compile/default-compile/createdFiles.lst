@@ -1,0 +1,9 @@
+com\warehousemarket\orderservice\service\OrderService.class
+com\warehousemarket\orderservice\OrderServiceApplication.class
+com\warehousemarket\orderservice\controller\OrderController.class
+com\warehousemarket\orderservice\interfaces\IOrderService.class
+com\warehousemarket\orderservice\dto\OrderItemsDTO.class
+com\warehousemarket\orderservice\entities\OrderItems.class
+com\warehousemarket\orderservice\dto\OrderRequest.class
+com\warehousemarket\orderservice\repository\OrderRepository.class
+com\warehousemarket\orderservice\entities\Order.class
